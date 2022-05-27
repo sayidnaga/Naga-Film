@@ -1,0 +1,50 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/images/bg/1.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px white;
+    letter-spacing: 2px;
+}
+
+.ghibli {
+    height: auto;
+    background: url("../assets/images/bg/2.jpg");
+    background-size: cover;
+}
+
+.makoto {
+    height: auto;
+    background: url("../assets/images/bg/5.jpg");
+    background-size: cover;
+}
+
+
+.movieWrapper {
+
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 3 px;
+    padding: 3px;
+
+}
+
+.images {
+    height: 500px;
+
+}
